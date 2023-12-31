@@ -12,7 +12,7 @@ Os dados utilizados neste projeto são dados do sistema Jira, ferramenta para co
 
 **Tela Principal:**
 <br>
-![Tela1](https://github.com/rddamasceno/gestao_a_vista_tickets_pbix/assets/55591959/51582ab8-15f3-41ee-af5e-4bd87e0771ca)
+![image](https://github.com/rddamasceno/gestao_a_vista_tickets_pbix/assets/55591959/e90aa259-b456-4937-8398-64a957326eaa)
 
 **Interpretação:**
 
