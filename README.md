@@ -1,4 +1,4 @@
-<h1 align="center">Gestão a Vista - Controle de Tickets, Jira e Power BI</h1>
+<h1 align="center">Gestão à Vista - Controle de Tickets, Jira e Power BI</h1>
 
 Os dados utilizados neste projeto são dados do sistema Jira, ferramenta para controle de tickets, projetos e backlog. Dados conectados pela API do Jira.
 <br>
