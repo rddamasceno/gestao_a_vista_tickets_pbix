@@ -9,7 +9,6 @@ Os dados utilizados neste projeto são dados do sistema Jira, ferramenta para co
  - Realizei a limpeza e tratamento dos dados, removendo valores ausentes ou inválidos e normalizando.
  - Desenvolvi diversas visualizações dos dados utilizando os gráficos disponíveis no Power BI.
 
-
 **Tela Principal:**
 <br>
 ![image](https://github.com/rddamasceno/gestao_a_vista_tickets_pbix/assets/55591959/e90aa259-b456-4937-8398-64a957326eaa)
@@ -38,6 +37,16 @@ Os dados utilizados neste projeto são dados do sistema Jira, ferramenta para co
 ![Tela3](https://github.com/rddamasceno/gestao_a_vista_tickets_pbix/assets/55591959/619145f4-2afb-4288-985f-c8a9768c4bd0)
 
  - **Conceito da Modelagem:** Relacionamento Muitos para Um, entre a dimensão tempo (dCalendario) e fChamados, poderia ser criadas outras tabelas, como por exemplo, pegar a informação de gestores das equipe e montar uma visão onde mostre os responsaveis dos tickets e seus superiores, outra tabela de status e macro status, etc.
+
+**Storytelling e Mockups:**
+<br>
+![image](https://github.com/rddamasceno/gestao_a_vista_tickets_pbix/assets/55591959/88e9d16c-39a4-4591-a88c-ebe35b09170c)
+<br>
+![Group 2](https://github.com/rddamasceno/gestao_a_vista_tickets_pbix/assets/55591959/7a822976-0ca6-4ee1-a56b-2fef693bc965)
+<br>
+![Group 3](https://github.com/rddamasceno/gestao_a_vista_tickets_pbix/assets/55591959/4bb7caf9-d9e5-4ee0-8a6a-319f631e7817)
+
+ - **Storytelling e Mockup na visualização dos dados:** Adotei a abordagem de storytelling e incorporar mockups para tornar a visualização dos dados clara e fluida, facilitando as decisões dos usuários. Utilizei o Figma, uma ferramenta abrangente para criar mockups de maneira simples e elegante. Segui o conceito de visualização em Z, com os principais KPIs no canto superior esquerdo e outras informações dispostas em camadas para uma visualização mais intuitiva. O objetivo é proporcionar uma boa experiência para os clientes. 
 
 <h2 align="left"> 🛠️ Objetivos:</h2>
 
