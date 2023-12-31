@@ -1,16 +1,21 @@
-w# <h1 align="center">Gestão a Vista - Controle de Tickets, Jira e Power BI</h1>
+<h1 align="center">Gestão a Vista - Controle de Tickets, Jira e Power BI</h1>
 
 Os dados utilizados neste projeto são dados do sistema Jira, ferramenta para controle de tickets, projetos e backlog. Dados conectados pela API do Jira.
 <br>
 <br>
-
 **Metodologia:**
 
  - Importei os dados para o Power BI utilizando a API do JIRA.
  - Realizei a limpeza e tratamento dos dados, removendo valores ausentes ou inválidos e normalizando.
  - Desenvolvi diversas visualizações dos dados utilizando os gráficos disponíveis no Power BI.
 
-<h2 align="left"> 🛠️ Ferramentas:</h2>
+![Tela1](https://github.com/rddamasceno/gestao_a_vista_tickets_pbix/assets/55591959/51582ab8-15f3-41ee-af5e-4bd87e0771ca)
+
+![Tela2](https://github.com/rddamasceno/gestao_a_vista_tickets_pbix/assets/55591959/1e13d92e-5af9-48a7-838b-ad89457653f7)
+
+![Tela3](https://github.com/rddamasceno/gestao_a_vista_tickets_pbix/assets/55591959/619145f4-2afb-4288-985f-c8a9768c4bd0)
+
+<h2 align="left"> 🛠️ Objetivos:</h2>
 
  - **Visibilidade e transparência:** Um painel de Power BI pode fornecer uma visão geral clara e concisa do status dos chamados do Jira. Isso pode ajudar os gerentes a acompanhar o desempenho do departamento de TI e identificar quaisquer áreas que precisam de atenção.
  - **Melhoria da comunicação:** Um painel de Power BI pode ser usado para comunicar informações importantes aos funcionários. Isso pode ajudar a garantir que todos estejam na mesma página e trabalhando juntos para resolver problemas.
