@@ -29,7 +29,7 @@ Os dados utilizados neste projeto são dados do sistema Jira, ferramenta para co
 
 **Drill Through:**
 <br>
-![Tela2](https://github.com/rddamasceno/gestao_a_vista_tickets_pbix/assets/55591959/1e13d92e-5af9-48a7-838b-ad89457653f7)
+![image](https://github.com/rddamasceno/gestao_a_vista_tickets_pbix/assets/55591959/da06c7a3-07e9-4779-8e38-19c4f3d83681)
 
  - **Drill Through para análise detalhada dos dados:** A funcionalidade de "Drill Through" simplifica a compreensão dos dados. Com um simples clique, você pode ver detalhes mais específicos por trás das visões apresentadas. Isso proporciona maior liberdade, permitindo uma análise fácil e clara dos dados
 
